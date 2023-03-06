@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoy there! How's it going, everybody? 👋
 
 <!--
 **vitalizzare/vitalizzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on an application for tracking a family tree
+- 🌱 I’m currently learning SQL, scipy.sparse.csgraph and neo4j
+- 👯 I’m looking to collaborate on making a telegram bot for making edits and filling the database 
+- 🤔 I’m looking for help with planning and time management
+- 💬 Ask me about Python, Numpy or Pandas, you can see some of the answers at [StackOverflow](https://www.stackoverflow.com/users/14909621/vitalizzare)
+- 📫 How to reach me: www.twitter.com/vitalizzare
+- ⚡ Fun fact: I'm a fan of [Jeeves and Wooster](https://en.wikipedia.org/wiki/Jeeves_and_Wooster)
