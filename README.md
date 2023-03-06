@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on an application for tracking a family tree
-- 🌱 I’m currently learning SQL, scipy.sparse.csgraph and neo4j
+- 🌱 I’m currently learning [SQL](https://stepik.org/course/63054/), [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html) and [neo4j](https://github.com/neo4j/neo4j)
 - 👯 I’m looking to collaborate on making a telegram bot for making edits and filling the database 
 - 🤔 I’m looking for help with planning and time management
-- 💬 Ask me about Python, Numpy or Pandas, you can see some of the answers at [StackOverflow](https://www.stackoverflow.com/users/14909621/vitalizzare)
+- 💬 Ask me about python, numpy, pandas; you can see some answers at [StackOverflow](https://www.stackoverflow.com/users/14909621/vitalizzare) and [Gist](https://gist.github.com/vitalizzare)
 - 📫 How to reach me: www.twitter.com/vitalizzare
 - ⚡ Fun fact: I'm a fan of [Jeeves and Wooster](https://en.wikipedia.org/wiki/Jeeves_and_Wooster)
