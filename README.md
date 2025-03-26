@@ -2,7 +2,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 
 - [x] **2025-03-24** Lection 28: text and words
 - [x] **2025-03-25** Lection 28: grammar
-- [ ] **2025-03-26** Lection 28: exercises
+- [x] **2025-03-26** Lection 28: exercises
 - [ ] **2025-03-27** Lection 29: text and words
 - [ ] **2025-03-28** Lection 29: grammar
 - [ ] **2025-03-29** Lection 29: exercises
