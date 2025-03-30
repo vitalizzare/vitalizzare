@@ -10,32 +10,32 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [ ] **2025-03-31** Lesson 30: grammar and exercises
 - [ ] **2025-03-30** Lesson 31: read the story, learn new words
 - [ ] **2025-03-31** Lesson 31: grammar and exercises
-- [ ] **2025-04-01** Lesson 31: read the story, learn new words
-- [ ] **2025-04-02** Lesson 31: grammar and exercises
-- [ ] **2025-04-03** Lesson 31: read the story, learn new words
-- [ ] **2025-04-04** Lesson 31: grammar and exercises
-- [ ] **2025-04-05** Lesson 31: read the story, learn new words
-- [ ] **2025-04-06** Lesson 31: grammar and exercises
-- [ ] **2025-04-07** Lesson 31: read the story, learn new words
-- [ ] **2025-04-08** Lesson 31: grammar and exercises
-- [ ] **2025-04-09** Lesson 31: read the story, learn new words
-- [ ] **2025-04-10** Lesson 31: grammar and exercises
-- [ ] **2025-04-11** Lesson 31: read the story, learn new words
-- [ ] **2025-04-12** Lesson 31: grammar and exercises
-- [ ] **2025-04-13** Lesson 31: read the story, learn new words
-- [ ] **2025-04-14** Lesson 31: grammar and exercises
-- [ ] **2025-04-15** Lesson 31: read the story, learn new words
-- [ ] **2025-04-16** Lesson 31: grammar and exercises
-- [ ] **2025-04-17** Lesson 31: read the story, learn new words
-- [ ] **2025-04-18** Lesson 31: grammar and exercises
-- [ ] **2025-04-19** Lesson 31: read the story, learn new words
-- [ ] **2025-04-20** Lesson 31: grammar and exercises
-- [ ] **2025-04-21** Lesson 31: read the story, learn new words
-- [ ] **2025-04-22** Lesson 31: grammar and exercises
+- [ ] **2025-04-01** Lesson 32: read the story, learn new words
+- [ ] **2025-04-02** Lesson 32: grammar and exercises
+- [ ] **2025-04-03** Lesson 33: read the story, learn new words
+- [ ] **2025-04-04** Lesson 33: grammar and exercises
+- [ ] **2025-04-05** Lesson 34: read the story, learn new words
+- [ ] **2025-04-06** Lesson 34: grammar and exercises
+- [ ] **2025-04-07** Lesson 35: read the story, learn new words
+- [ ] **2025-04-08** Lesson 35: grammar and exercises
+- [ ] **2025-04-09** Lesson 36: read the story, learn new words
+- [ ] **2025-04-10** Lesson 36: grammar and exercises
+- [ ] **2025-04-11** Lesson 37: read the story, learn new words
+- [ ] **2025-04-12** Lesson 37: grammar and exercises
+- [ ] **2025-04-13** Lesson 38: read the story, learn new words
+- [ ] **2025-04-14** Lesson 38: grammar and exercises
+- [ ] **2025-04-15** Lesson 39: read the story, learn new words
+- [ ] **2025-04-16** Lesson 39: grammar and exercises
+- [ ] **2025-04-17** Lesson 40: read the story, learn new words
+- [ ] **2025-04-18** Lesson 40: grammar and exercises
+- [ ] **2025-04-19** Lesson 41: read the story, learn new words
+- [ ] **2025-04-20** Lesson 41: grammar and exercises
+- [ ] **2025-04-21** Lesson 42: read the story, learn new words
+- [ ] **2025-04-22** Lesson 42: grammar and exercises
 
 
   [1]: https://github.com/vitalizzare/oskar_perlin_spanish.git
-  [2]: https://t.me/vitalizzare
+
 <!--
 **vitalizzare/vitalizzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
