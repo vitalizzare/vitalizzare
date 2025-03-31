@@ -7,9 +7,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [x] **2025-03-28** Lesson 29: grammar
 - [x] **2025-03-29** Lesson 29: exercises
 - [x] **2025-03-30** Lesson 30: read the story, learn new words
-- [ ] **2025-03-31** Lesson 30: grammar and exercises
-- [ ] **2025-03-30** Lesson 31: read the story, learn new words
-- [ ] **2025-03-31** Lesson 31: grammar and exercises
+- [x] **2025-03-31** Lesson 30: grammar and exercises
 - [ ] **2025-04-01** Lesson 32: read the story, learn new words
 - [ ] **2025-04-02** Lesson 32: grammar and exercises
 - [ ] **2025-04-03** Lesson 33: read the story, learn new words
