@@ -11,7 +11,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [x] **2025-04-01** Lesson 31: read the story, learn new words
 - [x] **2025-04-02** Lesson 31: grammar and exercises
 - [x] **2025-04-03** Lesson 32: read the story, learn new words
-- [ ] **2025-04-04** Lesson 32: grammar and exercises
+- [x] **2025-04-04** Lesson 32: grammar and exercises
 - [ ] **2025-04-05** Lesson 33: read the story, learn new words
 - [ ] **2025-04-06** Lesson 33: grammar and exercises
 - [ ] **2025-04-07** Lesson 34: read the story, learn new words
