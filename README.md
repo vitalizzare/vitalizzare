@@ -1,5 +1,7 @@
 I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it pretty handy to use the GitHub space as an organizer. My plan for the month:
 
+<detailes>
+  
 - [x] **2025-03-24** Lesson 28: text and words
 - [x] **2025-03-25** Lesson 28: grammar
 - [x] **2025-03-26** Lesson 28: exercises
@@ -30,6 +32,8 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [ ] **2025-04-20** Lesson 40: grammar and exercises
 - [ ] **2025-04-21** Lesson 41: read the story, learn new words
 - [ ] **2025-04-22** Lesson 41: grammar and exercises
+
+</detailes>
 
 
   [1]: https://github.com/vitalizzare/oskar_perlin_spanish.git
