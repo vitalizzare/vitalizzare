@@ -32,7 +32,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [x] **2025-04-19** Lesson 40: read the story, learn new words
 - [x] **2025-04-20** Lesson 40: grammar and exercises
 - [x] **2025-04-21** Lesson 41: read the story, learn new words
-- [ ] **2025-04-22** Lesson 41: grammar and exercises
+- [x] **2025-04-22** Lesson 41: grammar and exercises
 
 </details>
 
