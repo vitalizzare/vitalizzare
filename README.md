@@ -37,7 +37,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 
 <details><summary>🚀 <b>April 24 &ndash; May 31, 2025</b></summary>
   
-- [ ] **2025-04-24** Lesson 42: read the story, learn new words
+- [x] **2025-04-24** Lesson 42: read the story, learn new words
 - [ ] **2025-04-25** Lesson 42: grammar and exercises
 - [ ] **2025-04-26** Lesson 43: read the story, learn new words
 - [ ] **2025-04-27** Lesson 43: grammar and exercises
