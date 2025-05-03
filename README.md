@@ -46,7 +46,7 @@ I'm learning Spanish with [Oskar Perlin's textbook][1] right now, and I find it 
 - [x] **2025-04-30** Lesson 45: read the story, learn new words
 - [x] **2025-05-01** Lesson 45: grammar and exercises
 - [x] **2025-05-02** Lesson 46: read the story, learn new words
-- [ ] **2025-05-03** Lesson 46: grammar and exercises
+- [x] **2025-05-03** Lesson 46: grammar and exercises
 - [ ] **2025-05-04** Lesson 47: read the story, learn new words
 - [ ] **2025-05-05** Lesson 47: grammar and exercises
 - [ ] **2025-05-06** Lesson 48: read the story, learn new words
